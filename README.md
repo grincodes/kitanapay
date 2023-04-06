@@ -55,6 +55,13 @@ https://faucet.paradigm.xyz/
 # Test coverage
  - npm run test:cov
 
+# Useful links
+
+Below are links to previous blockchain projects i have worked on.
+[Github](https://github.com/grincodes/Zenof-City)
+[ZenofCity website](https://www.zenofcity.com/)
+
+
 
 
 
