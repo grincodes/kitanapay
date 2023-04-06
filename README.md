@@ -1,5 +1,3 @@
-https://faucet.paradigm.xyz/
-
 # Required Technology
 - Redis
 - Postgres
@@ -18,7 +16,7 @@ https://faucet.paradigm.xyz/
   When the Transaction gets to the Queue the consumers work on sending the request to the blockchain and emitting transaction status.
 
 
-# Additionals Resources
+# Additional Resources
   Here are some of the features added to the basic requirement:
 
   - Wallet: Need to new create wallet or use existing wallet , provides baseline for security using web3 wallet encryption.
@@ -57,7 +55,7 @@ https://faucet.paradigm.xyz/
 
 
 
-Below are links to previous blockchain projects i have worked on.
-[Github](https://github.com/grincodes/Zenof-City)
-[ZenofCity website](https://www.zenofcity.com/)
+# Below are links to previous blockchain projects i have worked on.
+-[Github](https://github.com/grincodes/Zenof-City) 
+-[ZenofCity website](https://www.zenofcity.com/)
 
