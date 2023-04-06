@@ -56,6 +56,6 @@
 
 
 # Below are links to previous blockchain projects i have worked on.
--[Github](https://github.com/grincodes/Zenof-City) 
+-[Github Repo](https://github.com/grincodes/Zenof-City) 
 -[ZenofCity website](https://www.zenofcity.com/)
 
